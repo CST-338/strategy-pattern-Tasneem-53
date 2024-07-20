@@ -1,3 +1,6 @@
+/**
+ * Tasneem Khokha
+ */
 public class RangedAttack implements Attack{
     Monster attacker;
 
